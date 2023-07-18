@@ -1,5 +1,5 @@
 /*
- * Currency Coverter
+ * Currency-Coverter
 By Anjibabu Komari
  */
 
