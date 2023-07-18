@@ -1,3 +1,11 @@
+/*
+ * Currency Coverter
+By Anjibabu Komari
+ */
+
+
+
+
 import currencies.*;
 import java.applet.*;
 import java.awt.*;
