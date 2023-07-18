@@ -1,7 +1,12 @@
-/**
- *
- * @author Anjibabu Komari
+/*
+ * Temperature Converter
+By Anjibabu Komari
  */
+
+
+
+
+
 import javax.swing.*;
 import java.awt.event.*;
 
