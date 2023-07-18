@@ -1,5 +1,5 @@
 /*
- * Tic Tac Toe
+ * Tic-Tac-Toe
 By Anjibabu Komari
  */
 
