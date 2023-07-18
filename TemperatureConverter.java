@@ -1,6 +1,6 @@
 /**
  *
- * @author Rahul Reddy
+ * @author Anjibabu Komari
  */
 import javax.swing.*;
 import java.awt.event.*;
